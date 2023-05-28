@@ -1,8 +1,5 @@
 # Waiting on a friend
 
-
-
-
 ## Verse 1
 c1: Am                F
 l1: Watching girls go passing by

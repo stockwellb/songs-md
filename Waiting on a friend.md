@@ -8,10 +8,18 @@ Rolling Stones
 
 ***
 
-## Intro
+## Intro x 2
 c1: Cadd9 F6 F C 
 
+c1: Cadd9 F6 F C
+
+c1: Cadd9 F6 F C
+
+c1: Cadd9 F6 F C
+---
+
 ## Verse 1
+
 c1: Am                F
 l1: Watching girls go passing by
 
@@ -23,8 +31,10 @@ l1: I'm just standing in a doorway
 
 c1: G        G7                  C   C C/E
 l1: I'm just trying to make some sense
+---
 
 ## Verse 2
+
 c1: Am                  F
 l1: Out of these girls passing by
 
@@ -36,6 +46,7 @@ l1: I'm not waiting on a lady
 
 c1: G        G7         C     C  C/E
 l1: I'm just waiting on friend
+---
 
 ## Verse 3
 c1: Am                 F
@@ -49,6 +60,7 @@ l1: I'm not waiting on a lady
 
 c1: G        G7         C     
 l1: I'm just waiting on a friend
+---
 
 ## Chorus
 c1: Cadd9 F6  F                 C
@@ -65,6 +77,7 @@ l1:       I'm just waiting on a friend
 
 c1: Cadd9 F6  F                 C
 l1:           Just waiting on a friend
+---
 
 
 ## Verse 4
@@ -79,6 +92,7 @@ l1: But I need someone I can cry to
 
 c1: G   G7            C     C  C/E
 l1: I need someone to protect
+---
 
 ## Verse 5
 c1: Am              F
@@ -92,6 +106,7 @@ l1: But I'm not waiting on a lady
 
 c1: G        G7           C     C  C/E
 l1: I'm just waiting on a friend
+---
 
 ## Chorus
 c1: Cadd9 F6  F                 C
@@ -111,3 +126,4 @@ l1:           Just waiting on a friend
 
 c1: Cadd9 F6  F                 C
 l1:                Waiting on a friend
+---

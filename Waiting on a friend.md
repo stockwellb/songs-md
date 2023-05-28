@@ -1,28 +1,35 @@
 # Waiting on a friend
 
----
-chords:
-  Gdim:
-    - o3 b1,4,3 n2,4 n3,5 m5 m6
----
 
 
+
+## Verse 1
 c1: Am                F
 l1: Watching girls go passing by
 
 c1: G                   C
 ll: It ain't the latest thing
 
-c1: G        G7            C
+c1: G        G7            C       C
 l1: I'm just standing in a doorway
 
-c1: G        G7                  C
+c1: G        G7                  C   C
 l1: I'm just trying to make some sense
 
-Out of these girls passing by
-The tales they tell of men
-I'm not waiting on a lady
-I'm just waiting on friend
+## Verse 2
+c1: Am                  F
+l1: Out of these girls passing by
+
+c1: G                      C
+ll: The tales they tell of men
+
+c1: G       G7           C       C
+l1: I'm not waiting on a lady
+
+c1: G        G7         C     C  C/E
+l1: I'm just waiting on friend
+
+
 A smile relieves a heart that grieves
 Remember what I said
 I'm not waiting on a lady

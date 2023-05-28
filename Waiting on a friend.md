@@ -1,4 +1,6 @@
 ---
+chords:
+    C Cadd9 Am F F6 G G7
 ---
 
 # Waiting on a friend

@@ -38,12 +38,16 @@ c1: G        G7         C     C  C/E
 l1: I'm just waiting on friend
 
 ## Verse 3
+c1: Am                 F
 l1: A smile relieves a heart that grieves
 
+c1: G               C
 l1: Remember what I said
 
+c1: G       G7           C       C
 l1: I'm not waiting on a lady
 
+c1: G        G7         C     
 l1: I'm just waiting on a friend
 
 ## Chorus
@@ -59,21 +63,29 @@ l1: Just waiting on a friend
 
 
 ## Verse 4
+c1: Am                          F
 l1: Don't need a whore, I don't need no booze
 
+c1: G                   C
 l1: Don't need a virgin priest
 
+c1: G          G7            C       C
 l1: But I need someone I can cry to
 
+c1: G   G7            C     C  C/E
 l1: I need someone to protect
 
 ## Verse 5
+c1: Am              F
 l1: Making love and breaking hearts
 
+c1: G                C
 l1: It is a game for youth
 
+c1: G           G7           C       C
 l1: But I'm not waiting on a lady
 
+c1: G        G7           C     C  C/E
 l1: I'm just waiting on a friend
 
 ## Chorus

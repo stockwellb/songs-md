@@ -1,10 +1,12 @@
+# Waiting on a friend
+
 ---
 chords:
   Gdim:
     - o3 b1,4,3 n2,4 n3,5 m5 m6
 ---
 
-# Waiting on a friend
+
 c1: Am                F
 l1: Watching girls go passing by
 

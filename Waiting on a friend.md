@@ -51,15 +51,20 @@ c1: G        G7         C
 l1: I'm just waiting on a friend
 
 ## Chorus
-l1: I'm just waiting on a friend
+c1: Cadd9 F6  F                 C
+l1:       I'm just waiting on a friend
 
-l1: Just waiting on a friend
+c1: Cadd9 F6  F                 C
+l1:           Just waiting on a friend
 
-l1: I'm just waiting on a friend
+c1: Cadd9 F6  F                 C
+l1:       I'm just waiting on a friend
 
-l1: I'm just waiting on a friend
+c1: Cadd9 F6  F                 C
+l1:       I'm just waiting on a friend
 
-l1: Just waiting on a friend
+c1: Cadd9 F6  F                 C
+l1:           Just waiting on a friend
 
 
 ## Verse 4
@@ -89,14 +94,20 @@ c1: G        G7           C     C  C/E
 l1: I'm just waiting on a friend
 
 ## Chorus
-l1: I'm just waiting on a friend
+c1: Cadd9 F6  F                 C
+l1:       I'm just waiting on a friend
 
-l1: I'm just waiting on a friend
+c1: Cadd9 F6  F                 C
+l1:       I'm just waiting on a friend
 
-l1: Waiting on a friend
+c1: Cadd9 F6  F                 C
+l1:                Waiting on a friend
 
-l1: I'm just waiting on a friend
+c1: Cadd9 F6  F                 C
+l1:       I'm just waiting on a friend
 
-l1: Just waiting on a friend
+c1: Cadd9 F6  F                 C
+l1:           Just waiting on a friend
 
-l1: Waiting on a friend
+c1: Cadd9 F6  F                 C
+l1:                Waiting on a friend

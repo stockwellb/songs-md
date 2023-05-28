@@ -3,7 +3,7 @@
 Rolling Stones
 
 ::: warning
-*here be dragons*
+here be dragons
 :::
 
 ***

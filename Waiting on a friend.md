@@ -17,7 +17,7 @@ c1: Am                F
 l1: Watching girls go passing by
 
 c1: G                   C
-ll: It ain't the latest thing
+l1: It ain't the latest thing
 
 c1: G        G7            C       C
 l1: I'm just standing in a doorway

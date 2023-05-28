@@ -22,7 +22,7 @@ ll: It ain't the latest thing
 c1: G        G7            C       C
 l1: I'm just standing in a doorway
 
-c1: G        G7                  C   C
+c1: G        G7                  C   C C/E
 l1: I'm just trying to make some sense
 
 ## Verse 2
@@ -32,7 +32,7 @@ l1: Out of these girls passing by
 c1: G                      C
 ll: The tales they tell of men
 
-c1: G       G7           C       C C/E
+c1: G       G7           C       C
 l1: I'm not waiting on a lady
 
 c1: G        G7         C     C  C/E

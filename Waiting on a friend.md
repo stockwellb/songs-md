@@ -1,12 +1,5 @@
+
 ---
-# Waiting on a friend
-
-Rolling Stones
-
- - Key: C
- - Tempo
- - 116 bpm
- - 
 youTubeId: MKLVmBOOqVU
 ---
 

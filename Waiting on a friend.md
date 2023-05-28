@@ -79,6 +79,15 @@ c1: Cadd9 F6  F                 C
 l1:           Just waiting on a friend
 ---
 
+## Sax Solo
+c1: Cadd9 F6 F C 
+
+c1: Cadd9 F6 F C
+
+c1: Cadd9 F6 F C
+
+c1: Cadd9 F6 F C
+---
 
 ## Verse 4
 c1: Am                          F

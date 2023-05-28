@@ -1,12 +1,7 @@
 ---
 chords:
-    C:
-    Cadd9:
-    Am:
-    F:
-    F6:
-    G:
-    G7:
+  Gdim:
+    - o3 b1,4,3 n2,4 n3,5 m5 m6
 ---
 
 # Waiting on a friend

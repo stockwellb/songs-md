@@ -2,11 +2,15 @@
 
 Rolling Stones
 
-::: warning
-here be dragons
-:::
+ - Key: C
+ - Tempo:
+ - 116 bpm
+
 
 ***
+
+## Intro
+c1: Cadd9 F6 F C
 
 ## Verse 1
 c1: Am                F

@@ -6,14 +6,10 @@ Rolling Stones
  - Tempo
  - 116 bpm
 
- 
----
-youTubeId: MKLVmBOOqVU
----
 
----
-youTubeId: acvIVA9-FMQ
----
+youTubeId: MKLVmBOOqVU
+
+
 
 ## Intro x 2
 c1: Cadd9 F6 F C 

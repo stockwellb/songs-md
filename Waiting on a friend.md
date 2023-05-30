@@ -62,24 +62,24 @@ c1: G       G7           C       C
 l1: I'm not waiting on a lady
 
 c1: G        G7         C     
-l1: I'm just waiting on a friend
+l1: I'm just waiting on a 
 ---
 
 ## Chorus
-c1: Cadd9 F6  F                 C
-l1:       I'm just waiting on a friend
+c1: Cadd9 F6  F                 
+l1: friend.   I'm just waiting on a
 
-c1: Cadd9 F6  F                 C
-l1:           Just waiting on a friend
+c1: Cadd9 F6  F         
+l1: friend.   Just waiting on a 
 
-c1: Cadd9 F6  F                 C
-l1:       I'm just waiting on a friend
+c1: Cadd9 F6  F                 
+l1: friend.   I'm just waiting on a 
 
-c1: Cadd9 F6  F                 C
-l1:       I'm just waiting on a friend
+c1: Cadd9 F6  F                 
+l1: friend.   I'm just waiting on a 
 
-c1: Cadd9 F6  F                 C
-l1:           Just waiting on a friend
+c1: Cadd9 F6  F                 
+l1: friend.   Just waiting on a friend
 ---
 
 ## Sax Solo
